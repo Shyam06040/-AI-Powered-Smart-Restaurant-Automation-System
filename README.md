@@ -1,5 +1,5 @@
 # AI-Powered Smart Restaurant Automation System
-### Implementation Plan — Group GC17
+### Implementation Plan 
 
 A full-stack, AI-enhanced hospitality management platform built as a single integrated web application covering guest ordering, kitchen display, billing, inventory, staff ERP, and business intelligence analytics.
 
